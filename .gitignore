@@ -1,0 +1,10 @@
+# .gitignore
+data/raw/
+data/processed/
+ham10000_raw/
+*.zip
+outputs/models/
+__pycache__/
+*.pyc
+ham_env/
+.ipynb_checkpoints/
