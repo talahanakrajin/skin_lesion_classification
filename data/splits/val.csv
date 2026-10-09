@@ -1247,7 +1247,7 @@ HAM_0002150,ISIC_0027364,nv,histo,25.0,male,chest
 HAM_0002701,ISIC_0024328,nv,histo,55.0,male,back
 HAM_0002701,ISIC_0026764,nv,histo,55.0,male,back
 HAM_0000143,ISIC_0027751,nv,histo,15.0,female,trunk
-HAM_0004924,ISIC_0027040,nv,histo,,female,trunk
+HAM_0004924,ISIC_0027040,nv,histo,51.863828077927295,female,trunk
 HAM_0003580,ISIC_0026030,nv,histo,50.0,female,lower extremity
 HAM_0007456,ISIC_0028167,nv,histo,65.0,female,lower extremity
 HAM_0000418,ISIC_0029339,nv,histo,55.0,male,back
@@ -1461,15 +1461,15 @@ HAM_0006232,ISIC_0033043,nv,consensus,60.0,male,unknown
 HAM_0004199,ISIC_0033556,nv,consensus,40.0,female,unknown
 HAM_0004183,ISIC_0032606,nv,consensus,40.0,female,unknown
 HAM_0004192,ISIC_0033066,nv,consensus,40.0,female,unknown
-HAM_0006766,ISIC_0033374,nv,consensus,,unknown,unknown
-HAM_0006644,ISIC_0033882,nv,consensus,,unknown,unknown
-HAM_0004120,ISIC_0034266,nv,consensus,,unknown,unknown
-HAM_0002037,ISIC_0033733,nv,consensus,,unknown,unknown
-HAM_0007191,ISIC_0032738,nv,consensus,,unknown,unknown
-HAM_0000627,ISIC_0034019,nv,consensus,,unknown,unknown
-HAM_0002164,ISIC_0032852,nv,consensus,,unknown,unknown
-HAM_0007301,ISIC_0033417,nv,consensus,,unknown,unknown
-HAM_0003696,ISIC_0032945,nv,consensus,,unknown,unknown
+HAM_0006766,ISIC_0033374,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0006644,ISIC_0033882,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0004120,ISIC_0034266,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0002037,ISIC_0033733,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0007191,ISIC_0032738,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0000627,ISIC_0034019,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0002164,ISIC_0032852,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0007301,ISIC_0033417,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0003696,ISIC_0032945,nv,consensus,51.863828077927295,unknown,unknown
 HAM_0006720,ISIC_0024725,nv,consensus,0.0,female,lower extremity
 HAM_0006720,ISIC_0031259,nv,consensus,0.0,female,lower extremity
 HAM_0005696,ISIC_0028014,nv,consensus,30.0,male,back

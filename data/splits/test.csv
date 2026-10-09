@@ -145,7 +145,7 @@ HAM_0004245,ISIC_0033701,bkl,consensus,70.0,male,back
 HAM_0004245,ISIC_0033884,bkl,consensus,70.0,male,back
 HAM_0000332,ISIC_0033784,bkl,consensus,80.0,female,upper extremity
 HAM_0000332,ISIC_0033307,bkl,consensus,80.0,female,upper extremity
-HAM_0002660,ISIC_0033750,bkl,consensus,,unknown,unknown
+HAM_0002660,ISIC_0033750,bkl,consensus,51.863828077927295,unknown,unknown
 HAM_0000090,ISIC_0032330,bkl,consensus,65.0,female,trunk
 HAM_0005932,ISIC_0027747,bkl,consensus,55.0,male,back
 HAM_0004309,ISIC_0028681,bkl,consensus,70.0,female,trunk
@@ -1251,7 +1251,7 @@ HAM_0006760,ISIC_0031559,nv,histo,35.0,female,abdomen
 HAM_0002835,ISIC_0028510,nv,histo,30.0,female,foot
 HAM_0000302,ISIC_0025942,nv,histo,50.0,female,upper extremity
 HAM_0004698,ISIC_0030127,nv,histo,60.0,male,upper extremity
-HAM_0006706,ISIC_0031725,nv,histo,,female,abdomen
+HAM_0006706,ISIC_0031725,nv,histo,51.863828077927295,female,abdomen
 HAM_0004443,ISIC_0028758,nv,histo,75.0,male,face
 HAM_0000525,ISIC_0031510,nv,histo,60.0,male,neck
 HAM_0001111,ISIC_0026209,nv,histo,70.0,male,back
@@ -1384,8 +1384,8 @@ HAM_0002084,ISIC_0027311,nv,consensus,0.0,male,face
 HAM_0007437,ISIC_0032020,nv,consensus,0.0,female,lower extremity
 HAM_0007437,ISIC_0024745,nv,consensus,0.0,female,lower extremity
 HAM_0002147,ISIC_0029537,nv,consensus,5.0,female,hand
-HAM_0000698,ISIC_0031668,nv,consensus,,male,foot
-HAM_0000698,ISIC_0027431,nv,consensus,,male,foot
+HAM_0000698,ISIC_0031668,nv,consensus,51.863828077927295,male,foot
+HAM_0000698,ISIC_0027431,nv,consensus,51.863828077927295,male,foot
 HAM_0007566,ISIC_0030479,nv,consensus,50.0,male,back
 HAM_0007566,ISIC_0028834,nv,consensus,50.0,male,back
 HAM_0005974,ISIC_0031395,nv,consensus,80.0,male,upper extremity
@@ -1418,12 +1418,12 @@ HAM_0004196,ISIC_0033421,nv,consensus,40.0,female,unknown
 HAM_0004181,ISIC_0032571,nv,consensus,40.0,female,unknown
 HAM_0004210,ISIC_0034081,nv,consensus,40.0,female,unknown
 HAM_0004211,ISIC_0034082,nv,consensus,40.0,female,unknown
-HAM_0000822,ISIC_0033841,nv,consensus,,unknown,unknown
-HAM_0003561,ISIC_0034154,nv,consensus,,unknown,unknown
-HAM_0004430,ISIC_0032789,nv,consensus,,unknown,unknown
-HAM_0005439,ISIC_0033597,nv,consensus,,unknown,unknown
-HAM_0001366,ISIC_0032814,nv,consensus,,unknown,unknown
-HAM_0001209,ISIC_0033064,nv,consensus,,unknown,unknown
+HAM_0000822,ISIC_0033841,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0003561,ISIC_0034154,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0004430,ISIC_0032789,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0005439,ISIC_0033597,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0001366,ISIC_0032814,nv,consensus,51.863828077927295,unknown,unknown
+HAM_0001209,ISIC_0033064,nv,consensus,51.863828077927295,unknown,unknown
 HAM_0004370,ISIC_0027138,nv,consensus,10.0,male,unknown
 HAM_0004370,ISIC_0024757,nv,consensus,10.0,male,unknown
 HAM_0007122,ISIC_0025816,nv,consensus,75.0,male,lower extremity
