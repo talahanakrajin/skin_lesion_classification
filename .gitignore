@@ -4,6 +4,8 @@ data/processed/
 ham10000_raw/
 *.zip
 outputs/models/
+outputs/cams
+outputs/figures/gradcam
 __pycache__/
 *.pyc
 ham_env/
